@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab1_Devanshi_C0852304_Android</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="address">Address</string>
+    <string name="location_aware">Location Aware</string>
+    <string name="map_overlays">Map Overlays</string>
+    <string name="google_maps_key">AIzaSyCb6mHsu4ph9RCL6a8SucpVhhbcuzh_Jzo</string>
+</resources>
