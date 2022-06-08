@@ -19,7 +19,7 @@
             android:value="@string/google_maps_key" />
 
         <activity
-            android:name=".DisplaymapActivity"
+            android:name=".MainActivity"
             android:exported="true">
 
             <intent-filter>

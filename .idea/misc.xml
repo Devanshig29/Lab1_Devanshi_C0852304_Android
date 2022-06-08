@@ -5,6 +5,8 @@
       <map>
         <entry key="..\:/Users/Devanshi/AndroidStudioProjects/Lab1_Devanshi_C0852304_Android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/Users/Devanshi/AndroidStudioProjects/Lab1_Devanshi_C0852304_Android/app/src/main/res/layout/locationaware_layout.xml" value="0.11944444444444445" />
+        <entry key="..\:/Users/Devanshi/AndroidStudioProjects/Lab1_Devanshi_C0852304_Android/app/src/main/res/layout/mapoverlays_layout.xml" value="0.12364130434782608" />
+        <entry key="..\:/Users/Devanshi/AndroidStudioProjects/Lab1_Devanshi_C0852304_Android/app/src/main/res/layout/marker_details.xml" value="0.25" />
       </map>
     </option>
   </component>
